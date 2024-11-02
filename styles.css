@@ -154,3 +154,27 @@ main{
     font-weight: 700;
     margin-top: 5px;
 }
+
+/* What I Do Section Related Styles */
+
+.what-i-do .section-description{
+    margin-top: 0;
+    padding: 30px 150px;
+}
+
+.what-i-do .section-title{
+    margin-bottom: 2px;
+}
+
+.skills-container{
+    display: flex;
+    gap: 20px;
+}
+
+
+.skill-info{
+    padding: 30px;
+    border: 1px solid wheat;
+    border-radius: 5px;
+    box-shadow: 10px 10px 5px 0px #757575
+}
