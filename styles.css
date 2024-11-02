@@ -117,6 +117,10 @@ main{
     max-width: 1140px;
     margin: 0 auto;
 }
+
+main .section-title{
+    margin-top: 150px;
+}
 /* About Me Related Styles */
 
 .about-me{
@@ -177,4 +181,38 @@ main{
     border: 1px solid wheat;
     border-radius: 5px;
     box-shadow: 10px 10px 5px 0px #757575
+}
+
+/* Resume Section Related Styles */
+
+.resume-colunm-title{
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.resume-container{
+    display: flex;
+    gap: 20px;
+}
+
+.resume-container hr{
+ margin: 30px;
+}
+
+.resume-item-institute{
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.resume-item-description{
+    color: #757575;
+    font-size: 16px;;
+}
+
+.resume-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

@@ -6,4 +6,5 @@
 # Background:#FFF8F3
 # Black #181818
 # White
-# Gray 757575
+# Gray #757575, 
+# Deep Gray #474747
