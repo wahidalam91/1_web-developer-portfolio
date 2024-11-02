@@ -126,3 +126,31 @@ main{
 
     margin: 130px 0;
 }
+
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.about-info{
+    text-align: center;
+}
+
+.info-title{
+    color: #757575;
+    font-size: 20px;
+    font-weight: 400;
+}
+.info-title{
+    color: #757575;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+.info-description{
+    color: #181818;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 5px;
+}
