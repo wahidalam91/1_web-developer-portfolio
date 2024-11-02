@@ -113,7 +113,10 @@ nav a{
 }
 
 /* Main Main Main*/
-
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
 /* About Me Related Styles */
 
 .about-me{
